@@ -11,7 +11,7 @@ A music player web app with an interactive UI and settled animations for easy ac
 # Tech Stack
 
 - ReactJS
-- HTML5/CSS4
+- HTML5/CSS3
 
 # Home Page
 
