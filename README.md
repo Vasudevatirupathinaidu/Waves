@@ -5,8 +5,8 @@ A music player web app with an interactive UI and settled animations for easy ac
 # Installation
 
 - 1 - npm install
-- 2 - Runs the app in development mode
-- - npm run start
+- 2 - npm run start
+- - Runs the app in development mode
 - 3 - Open http://localhost:3000 to view it in the browser.
 
 # Tech Stack
